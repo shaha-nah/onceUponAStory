@@ -1,0 +1,50 @@
+User must be able to create an account, login and logout.
+User must be able to delete their account.
+User must be able to add a description to their profile.
+User must be able to add a display picture to their profile.
+User must be able to modify their account.
+User must be able to view their followers. 
+User must be able to view their works.
+User must be able to view their reads.
+User must be able to write their stories from scratch on the website.
+User must be able to save their ongoing projects as draft.
+User must be able to add a cover page.
+User must be able to specify genre and language of their stories.
+User must be able to mark their projects’ status.
+User must be able to view number of readers of their stories.
+User must be able to add a chapter to their stories.
+User must be able to delete a chapter or a story.
+User must be able to add a header to each chapter.
+User must be able to open a story for reading.
+User must be able to navigate through pages and chapters while reading.
+User must be able to bookmark their current page.
+User must be able to add a story to a reading list.
+User must be able to access a list containing all their current reads.
+User must be able to archive a story from their current reads.
+User must be able to remove a story from their current reads or reading list.
+User must be able to rate a chapter and add reviews.
+User must be able to add comments to a page and chapter.
+User must be able to view trending books.
+A user must be able to follow another user.
+A user must be able to unfollow another user.
+User must be able to report or block another user.
+
+User must be able to get notification of new followers.
+User must be able to share their uploads on social media.
+User must be able to put restriction on the audience of their stories.
+User must be able to add or remove tags and warnings to their stories.
+User must be able to change the privacy settings of their stories.
+User must be able to modify a chapter of a story.
+User must be able to view a chapter’s rating and reviews.
+User must be able to dedicate a chapter or story.
+User must be able to search for a story by its name, categories or tags.
+User must be able to report a story.
+User must be able to receive notifications when a book is updated.
+User must be able to get book and follow recommendations.
+User must be able to share a book on social media.
+
+Admin must be able to moderate content.
+Admin must be able to delete content.
+Admin must be able to censor sensitive/abusive comments.
+Admin must be able to contact users.
+Admin must be able to delete users.

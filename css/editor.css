@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(37, 36, 36);
+    color: rgb(194, 190, 190);
+}
+
+textarea{
+    background-color: rgb(37, 36, 36);
+    color: rgb(194, 190, 190);
+}
+
+.editor{
+    width:85%;
+    margin: 0 auto;
+}
+
+.editor input[type=text]{
+    /* background-color: rgb(37, 36, 36); */
+    margin:0 auto;
+    color:white;
+}
